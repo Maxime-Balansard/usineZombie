@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1612953735 source:d:\ecole\algo\usinezombie\main.cpp
+	"Zombie.h"
+
+1612952616 d:\ecole\algo\usinezombie\include\zombie.h
+	<string>
+	<iostream>
+	<random>
+	<ctime>
+	<stdlib.h>
+
+1612953599 source:d:\ecole\algo\usinezombie\src\zombie.cpp
+	"Zombie.h"
+
